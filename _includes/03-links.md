@@ -1,1 +1,1 @@
-[Profile])https://github.com/StanLegum)
+[Profile](https://github.com/StanLegum)
