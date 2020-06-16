@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# Miscellaneous animals in list
+- Cats
+- Dogs
+- Chickens
+  - Roosters
+  - Hens
+  - Chicks
+  
